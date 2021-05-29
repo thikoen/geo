@@ -7,3 +7,5 @@ It does not include the actual source code, which you can find in GeoFE and GeoB
 This Projects was a collaboration with a few other students from HSRM / Wiesbaden. 
 
 My role included: Architecture, backend programming with expressJS, designing UI Assets and developing style guides, DevOps services such as developing build pipeline, dockerization, etc.
+
+Big shoutout to the nice people I had the pleasure to work with!
